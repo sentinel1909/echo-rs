@@ -1,0 +1,4 @@
+# .gitignore for the echo-rs crate
+
+# ignore the target directory
+/target
